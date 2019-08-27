@@ -1,16 +1,15 @@
-# shared_preferences
+# Shared Preferences in Flutter using Dart programming language
 
-A new Flutter project.
+in thie repo you will find the code for the Shared preferences lecture in the Flutter Course.
 
-## Getting Started
+## what we will learn in this example 
+this tutorial will lead you to create your first shared preferences project where you can read and write to it. 
 
-This project is a starting point for a Flutter application.
+examples of using shared preferences:- 
+- if you want your users to login just one time then keep them loggedin you can use shared preferences to save for example a boolean value indicates that the user is already loggedin and everytime the user opens the application you will redirect it to the Main Activity or screen directly, otherwise he will be redirected to the login page! 
 
-A few resources to get you started if this is your first Flutter project:
+- Another usage we see always in the games speacially the high score, so you can keep this information in the shared preferences and it will be loaded whenever you need it very quickly from the shared preferences. 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- we may also use the shared preferences in the preferences screen e.g. audio, language, user preferences settings page.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Dont forget to watch the full lecture to see a step by step guide on how to use shared preferences in Flutter SDK using #Dart language! 
